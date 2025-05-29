@@ -8,13 +8,13 @@ import lombok.Setter;
 @Setter
 public class DeliveryPerformanceDto {
 
-    @NotNull(message = " ")
+    @NotNull(message = "Cannot be empty")
     private long totalShipments;
 
-    @NotNull(message = "")
+    @NotNull(message = "Cannot be empty")
     private long onTimeDeliveries;
 
-    @NotNull(message = "")
+    @NotNull(message = "Cannot be empty")
     private long delayedDeliveries;
 
     public DeliveryPerformanceDto(long totalShipments, long onTimeDeliveries, long delayedDeliveries){
