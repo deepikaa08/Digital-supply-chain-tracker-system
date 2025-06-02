@@ -50,7 +50,6 @@ Warehouse Manager	Receive goods, confirm delivery
 ●	Item: id, name, category, supplierId, createdDate
 ●	Shipment: id, itemId, fromLocation, toLocation, expectedDelivery, currentStatus, assignedTransporter
 ●	CheckpointLog: id, shipmentId, location, status, timestamp
-●	Alert: id, shipmentId, type (DELAY, DAMAGE), message, createdOn, resolved
 
 🔁 REST API Endpoints
 
