@@ -93,7 +93,7 @@ GET /api/reports/delivery-performance GET /api/reports/delayed-shipments
 4.	Reports are generated accordingly.
 
 🖼 ER Diagram
- 
+![ER Diagram](https://github.com/deepikaa08/Digital-supply-chain-tracker-system/blob/main/Digital-supply-chain-tracker/supplytrackerfinal/diagrams/ER%20diagram.jpg)
 
  
 
@@ -115,7 +115,7 @@ GET /api/reports/delivery-performance GET /api/reports/delayed-shipments
 
 
 🧭 Class Diagram
-
+![Class Diagram](https://github.com/deepikaa08/Digital-supply-chain-tracker-system/blob/main/Digital-supply-chain-tracker/supplytrackerfinal/diagrams/class%20diagram.jpg)
    
 
 
