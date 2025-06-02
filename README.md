@@ -219,11 +219,11 @@ http://localhost:8081/swagger-ui/index.html
 
 👥 Authors
 
-●	Deepikaa(https://github.com/deepikaa08) – Project Lead & Reports & Database Design
-●	Karnati Deekshith(https://github.com/deekshith08) – Item and Shipment Tracking & Exception Handling
-●	Allada Mukunda Priya Rajasri(https://github.com/amprajasri) – User and Role Management & Testing
-●	Harini Kasturi(https://github.com/harinikasturi) – User and Role Management & Exception Handling
-●	Aadarsh Bansal(https://github.com/ab5682) – Checkpoints & Event Logs & Testing
+●	[Deepikaa](https://github.com/deepikaa08) – Project Lead & Reports & Database Design
+●	[Karnati Deekshith](https://github.com/deekshith08) – Item and Shipment Tracking & Exception Handling
+●	[Allada Mukunda Priya Rajasri](https://github.com/amprajasri) – User and Role Management & Testing
+●	[Harini Kasturi](https://github.com/harinikasturi) – User and Role Management & Exception Handling
+●	[Aadarsh Bansal](https://github.com/ab5682) – Checkpoints & Event Logs & Testing
 
 🤝 Contributors
 
