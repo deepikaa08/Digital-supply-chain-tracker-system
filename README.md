@@ -139,7 +139,6 @@ springdoc.swagger-ui.path=/swagger-ui.html
 
 
 📁 Suggested Project Structure
-```text
 
 com.supplytracker
 ├── controller
